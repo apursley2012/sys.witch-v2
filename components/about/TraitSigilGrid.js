@@ -1,0 +1,6 @@
+import{j as e}from"../../assets/jsx-runtime.js";import{S as i}from"../sigils/Sigil.js";import{m as t}from"../../assets/proxy.js";import"../../data/sigils.js";const a=[{name:"Detail-Oriented",sigilId:"trait-detail",color:"cyan"},{name:"Creative",sigilId:"trait-creative",color:"magenta"},{name:"Sarcastic",sigilId:"trait-sarcastic",color:"purple"},{name:"Practical",sigilId:"trait-practical",color:"lime"},{name:"Pattern-Spotter",sigilId:"trait-pattern",color:"cyan"}],d=()=>e.jsx("div",{className:"grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6",children:a.map((r,o)=>e.jsxs(t.div,{initial:{opacity:0,y:20},whileInView:{opacity:1,y:0},viewport:{once:!0},transition:{delay:o*.1},className:"flex flex-col items-center text-center group",children:[e.jsx("div",{className:`
+            w-20 h-20 rounded-lg border border-neon-${r.color}/30 bg-surface-elevated
+            flex items-center justify-center mb-4 transition-all duration-300
+            group-hover:border-neon-${r.color} group-hover:shadow-glow-${r.color}
+            group-hover:-translate-y-2
+          `,children:e.jsx(i,{id:r.sigilId,size:32,color:r.color,className:"transition-transform duration-500 group-hover:rotate-180"})}),e.jsx("span",{className:"font-mono text-sm text-text-secondary group-hover:text-text-primary transition-colors",children:r.name})]},r.name))});export{d as T};
