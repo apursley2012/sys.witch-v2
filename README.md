@@ -11,6 +11,8 @@ Date: June 2026
 
 **An expanded system-witch portfolio with a richer magical interface, technical structure, and upgraded cyber-occult atmosphere.**
 
+[![Aurora Cosmos Screenshot Gallery](./images/screenshots/sys.witch-v2-screenshot-01.png)](./images/screenshots/sys.witch-v2-screenshot-01.png)
+
 [Open the live demo](https://apursley2012.github.io/sys.witch-v2/) · [Browse the full theme collection](https://github.com/apursley2012/github-pages-themes) · [Report an issue or request an addition](https://github.com/apursley2012/sys.witch-v2/issues/new/choose)
 
 </div>
@@ -100,71 +102,68 @@ The theme styling uses the following palette:
 
 Click any preview link or image to open the full-size file.
 
-- [Screenshot 01](images/screenshots/sys.witch-v2-screenshot-01.png)
-- [Screenshot 02](images/screenshots/sys.witch-v2-screenshot-02.png)
-- [Screenshot 03](images/screenshots/sys.witch-v2-screenshot-03.png)
-- [Screenshot 04](images/screenshots/sys.witch-v2-screenshot-04.png)
-- [Screenshot 05](images/screenshots/sys.witch-v2-screenshot-05.png)
-- [Screenshot 06](images/screenshots/sys.witch-v2-screenshot-06.png)
-- [Screenshot 07](images/screenshots/sys.witch-v2-screenshot-07.png)
-- [Screenshot 08](images/screenshots/sys.witch-v2-screenshot-08.png)
-- [Screenshot 09](images/screenshots/sys.witch-v2-screenshot-09.png)
-- [Screenshot 10](images/screenshots/sys.witch-v2-screenshot-10.png)
-- [Screenshot 11](images/screenshots/sys.witch-v2-screenshot-11.png)
-- [Screenshot 12](images/screenshots/sys.witch-v2-screenshot-12.png)
-- [Screenshot 13](images/screenshots/sys.witch-v2-screenshot-13.png)
-- [Screenshot 14](images/screenshots/sys.witch-v2-screenshot-14.png)
-- [Screenshot 15](images/screenshots/sys.witch-v2-screenshot-15.png)
-- [Screenshot 16](images/screenshots/sys.witch-v2-screenshot-16.png)
-- [Screenshot 17](images/screenshots/sys.witch-v2-screenshot-17.png)
-- [Screenshot 18](images/screenshots/sys.witch-v2-screenshot-18.png)
-- [Screenshot 19](images/screenshots/sys.witch-v2-screenshot-19.png)
-- [Screenshot 20](images/screenshots/sys.witch-v2-screenshot-20.png)
-- [Screenshot 21](images/screenshots/sys.witch-v2-screenshot-21.png)
+### Preview Screenshots
+
+Click any preview link or image to open the full-size file.
+
+<p align="center">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-01.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 1">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/sys.witch-v2-screenshot-02.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 2">
+</p>
+<p align="center">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-03.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 3">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/sys.witch-v2-screenshot-04.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 4">
+</p>
+<p align="center">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-05.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 5">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/sys.witch-v2-screenshot-06.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 6">
+</p>
+<p align="center">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-07.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 7">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/sys.witch-v2-screenshot-08.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 8">
+</p>
+<p align="center">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-09.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 9">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/sys.witch-v2-screenshot-10.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 10">
+</p>
+<p align="center">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-11.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 11">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/sys.witch-v2-screenshot-12.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 12">
+</p>
+<p align="center">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-13.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 13">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/sys.witch-v2-screenshot-14.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 14">
+</p>
+<p align="center">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-15.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 15">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/sys.witch-v2-screenshot-16.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 16">
+</p>
+<p align="center">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-17.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 17">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/sys.witch-v2-screenshot-18.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 18">
+</p>
+<p align="center">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-19.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 19">
+  &nbsp;&nbsp;
+  <img src="./images/screenshots/sys.witch-v2-screenshot-20.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 20">
+</p>
+<p align="center">
+  <img src="./images/screenshots/sys.witch-v2-screenshot-21.png" width="48%" style="max-width: 48%; height: auto;" alt="Preview Image 21">
+</p>
 
 #### Screenshot Gallery
 
-[![sys.witch-v2 screenshot 01](images/screenshots/sys.witch-v2-screenshot-01.png)](images/screenshots/sys.witch-v2-screenshot-01.png)
+[![Sys.Witch V2 Screenshot Gallery](https://github.com/apursley2012/sys.witch-v2/tree/main/images/screenshots)](https://github.com/apursley2012/sys.witch-v2/tree/main/images/screenshots)
 
-[![sys.witch-v2 screenshot 02](images/screenshots/sys.witch-v2-screenshot-02.png)](images/screenshots/sys.witch-v2-screenshot-02.png)
-
-[![sys.witch-v2 screenshot 03](images/screenshots/sys.witch-v2-screenshot-03.png)](images/screenshots/sys.witch-v2-screenshot-03.png)
-
-[![sys.witch-v2 screenshot 04](images/screenshots/sys.witch-v2-screenshot-04.png)](images/screenshots/sys.witch-v2-screenshot-04.png)
-
-[![sys.witch-v2 screenshot 05](images/screenshots/sys.witch-v2-screenshot-05.png)](images/screenshots/sys.witch-v2-screenshot-05.png)
-
-[![sys.witch-v2 screenshot 06](images/screenshots/sys.witch-v2-screenshot-06.png)](images/screenshots/sys.witch-v2-screenshot-06.png)
-
-[![sys.witch-v2 screenshot 07](images/screenshots/sys.witch-v2-screenshot-07.png)](images/screenshots/sys.witch-v2-screenshot-07.png)
-
-[![sys.witch-v2 screenshot 08](images/screenshots/sys.witch-v2-screenshot-08.png)](images/screenshots/sys.witch-v2-screenshot-08.png)
-
-[![sys.witch-v2 screenshot 09](images/screenshots/sys.witch-v2-screenshot-09.png)](images/screenshots/sys.witch-v2-screenshot-09.png)
-
-[![sys.witch-v2 screenshot 10](images/screenshots/sys.witch-v2-screenshot-10.png)](images/screenshots/sys.witch-v2-screenshot-10.png)
-
-[![sys.witch-v2 screenshot 11](images/screenshots/sys.witch-v2-screenshot-11.png)](images/screenshots/sys.witch-v2-screenshot-11.png)
-
-[![sys.witch-v2 screenshot 12](images/screenshots/sys.witch-v2-screenshot-12.png)](images/screenshots/sys.witch-v2-screenshot-12.png)
-
-[![sys.witch-v2 screenshot 13](images/screenshots/sys.witch-v2-screenshot-13.png)](images/screenshots/sys.witch-v2-screenshot-13.png)
-
-[![sys.witch-v2 screenshot 14](images/screenshots/sys.witch-v2-screenshot-14.png)](images/screenshots/sys.witch-v2-screenshot-14.png)
-
-[![sys.witch-v2 screenshot 15](images/screenshots/sys.witch-v2-screenshot-15.png)](images/screenshots/sys.witch-v2-screenshot-15.png)
-
-[![sys.witch-v2 screenshot 16](images/screenshots/sys.witch-v2-screenshot-16.png)](images/screenshots/sys.witch-v2-screenshot-16.png)
-
-[![sys.witch-v2 screenshot 17](images/screenshots/sys.witch-v2-screenshot-17.png)](images/screenshots/sys.witch-v2-screenshot-17.png)
-
-[![sys.witch-v2 screenshot 18](images/screenshots/sys.witch-v2-screenshot-18.png)](images/screenshots/sys.witch-v2-screenshot-18.png)
-
-[![sys.witch-v2 screenshot 19](images/screenshots/sys.witch-v2-screenshot-19.png)](images/screenshots/sys.witch-v2-screenshot-19.png)
-
-[![sys.witch-v2 screenshot 20](images/screenshots/sys.witch-v2-screenshot-20.png)](images/screenshots/sys.witch-v2-screenshot-20.png)
-
-[![sys.witch-v2 screenshot 21](images/screenshots/sys.witch-v2-screenshot-21.png)](images/screenshots/sys.witch-v2-screenshot-21.png)
 
 ---
 
